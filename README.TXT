@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Name Sorter
+PURPOSE OF PROJECT: The purpose of this project is to take a large amount of data concerning names and their popularity in given years and sort through this information to perform specified commands
+VERSION or DATE: 8/2025
+AUTHORS: Morgan Kay
+USER INSTRUCTIONS: Choose the files you want for some methods and input the name of the file for others to get the information you want
+
